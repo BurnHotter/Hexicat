@@ -9,6 +9,9 @@ Hexicat fixes this. This lightweight socat wrapper allows native conversion of t
 Hexicat requires the following dependencies. Ensure both are installed:
 - Bash
 - Socat
+  
+<br>
+
 Ensure hexicat.sh has +x permissions
 
 To run, enter `hexicat.sh [IP] [Port]`
